@@ -13,5 +13,6 @@ sudo apt-get install python-smbus
 1. DHT11 Temperature Sensor
 2. BMP180 Barometric Pressure Sensor
 3. YL-83 Rain Sensor 
-## Hardware Setup
+
+   
 
