@@ -1,4 +1,4 @@
-# IoT Environment Monitoring System
+# IoT Environment Monitoring 
 
 This is a simple Smart Environment monitoring system using **Raspberry Pi 4B+** and weather-related **sensors**. The system monitors and reports the weather parameters such as: Temperature,Humidity,Pressure, and gives alerts whenever it rains. We have also used [ThingSpeak Cloud](https://thingspeak.com/) platform for data collection and performed advanced data analysis using MATLAB and the [IFTTT](https://ifttt.com/) service to send alerts and notification.
 
